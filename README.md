@@ -1,2 +1,3 @@
 # IT1025RW.v0
-This is my assignment
+My name is Ron
+I am having fun with this.
